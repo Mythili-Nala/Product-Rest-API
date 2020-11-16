@@ -1,6 +1,6 @@
 # Product-Rest-API
 
-Simple Rest API using gorm with PUT, POST, GET, DELETE methods
+Simple Rest API using gorm, gorilla mux with PUT, POST, GET, DELETE methods
 
 Create product - /api/products
 
